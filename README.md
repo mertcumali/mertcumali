@@ -1,4 +1,5 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+
 ### Hi I'm Mert 👋
 ### I'm Senior Computer Engineering Student 👨‍💻
 ### I like coding and algorithms. You can look at my projects' codes in here.
