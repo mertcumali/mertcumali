@@ -14,9 +14,11 @@
 <img src="https://img.shields.io/badge/C%23-5849BE?style=for-the-badge&logo=c-sharp&logoColor=white"></img>
 <img src="https://img.shields.io/badge/Microsoft_SQL_Server-430098?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"></img>
 <img src="https://img.shields.io/badge/JavaScript-F7B93E?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></img>
+<img src="https://img.shields.io/badge/HTML-F9A03C?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS-FB542B?style=for-the-badge&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/Java-F05032?style=for-the-badge&logo=Java&logoColor=white"></img>
-<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+<img src="https://img.shields.io/badge/-Python-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/-PHP-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 
 
