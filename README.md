@@ -10,12 +10,12 @@
 
 ## Technologies & Tools 
 <img src="https://img.shields.io/badge/C%23-5849BE?style=for-the-badgelogo=c-sharp&logoColor=white"></img>
-<img src="https://img.shields.io/badge/.NETCore-2088FFstyle=for-the-badge&logo=.net&logoColor=white"></img>
+<img src="https://img.shields.io/badge/.NETCore-2088FF?style=for-the-badge&logo=.net&logoColor=white"></img>
 <img src="https://img.shields.io/badge/Microsoft_SQL_Server-430098?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"></img>
 <img src="https://img.shields.io/badge/Java-F05032?style=for-the-badge&logo=Java&logoColor=white"></img>
 <img src="https://img.shields.io/badge/JavaScript-F7B93E?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></img>
 <img src="https://img.shields.io/badge/HTML-E34F26??style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS-FB542B?style=for-the-badge&logo=css3&logoColor=white" />
-<img alt="angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
-<img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+<img alt="angular" src="https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+<img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 
