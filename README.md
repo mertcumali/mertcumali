@@ -4,7 +4,7 @@
 ### Senior Computer Engineering Student 👨‍💻
 ### I like coding and algorithms. You can look at my projects' codes in here.
 
-<h3>📫 Reach me on</h3>
+## 📫 Reach me on
 <a href="https://tr.linkedin.com/in/mert-cumali-39a62517a/" target="_blank" rel="nofollow"><img alt="Mert's LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:mertcumali@gmail.com" target="_blank" rel="nofollow"><img alt="Mert's Mail Address" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
@@ -18,7 +18,7 @@
 <img src="https://img.shields.io/badge/CSS-FB542B?style=for-the-badge&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/Java-F05032?style=for-the-badge&logo=Java&logoColor=white"></img>
 <img src="https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-<img src="https://img.shields.io/badge/-Python-13aa52?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/-PHP-43853d?style=flat-square&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/-Python-13aa52?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/-PHP-43853d?style=for-the-badge&logo=php&logoColor=white" />
 
 
