@@ -9,7 +9,7 @@ I like coding and algorithms. You can look at my projects' codes in here.
 <a href="mailto:mertcumali@gmail.com" target="_blank" rel="nofollow"><img alt="Mert's Mail Address" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 ## Technologies & Tools 
-<img alt="c-sharp "src="https://img.shields.io/badge/C%23-black?style=for-the-badge&logo=c-sharp&logoColor=white"></img>
+<img alt="c-sharp" src="https://img.shields.io/badge/C%23-black?style=for-the-badge&logo=c-sharp&logoColor=white"></img>
 <img src="https://img.shields.io/badge/.NET-black?style=for-the-badge&logo=.net&logoColor=white"></img>
 <img src="https://img.shields.io/badge/.NETCore-black?style=for-the-badge&logo=.net&logoColor=white"></img>
 <img src="https://img.shields.io/badge/Microsoft_SQL_Server-black?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"></img>
