@@ -11,7 +11,7 @@
 ## Technologies & Tools 
 <img src="https://img.shields.io/badge/.NETCore-2088FF?style=for-the-badge&logo=.net&logoColor=white"></img>
 <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/C%23-5849BE?style=for-the-badge&logo=c-sharp&logoColor=white"></img>
+<img src="https://img.shields.io/badge/C#-5849BE?style=for-the-badge&logo=c#&logoColor=white"></img>
 <img src="https://img.shields.io/badge/Microsoft_SQL_Server-430098?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"></img>
 <img src="https://img.shields.io/badge/JavaScript-F7B93E?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></img>
 <img src="https://img.shields.io/badge/HTML-F9A03C?style=for-the-badge&logo=html5&logoColor=white" />
