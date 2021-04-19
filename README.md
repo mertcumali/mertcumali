@@ -18,7 +18,7 @@
 <img src="https://img.shields.io/badge/CSS-FB542B?style=for-the-badge&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/Java-F05032?style=for-the-badge&logo=Java&logoColor=white"></img>
 <img src="https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-<img src="https://img.shields.io/badge/-Python-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/-PHP-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/-Python-13aa52?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/-PHP-43853d?style=flat-square&logo=php&logoColor=white" />
 
 
