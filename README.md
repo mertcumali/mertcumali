@@ -6,7 +6,6 @@
 
 ## 📫 Reach me on
 <a href="https://tr.linkedin.com/in/mert-cumali-39a62517a/" target="_blank" rel="nofollow"><img alt="Mert's LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:mertcumali@gmail.com" target="_blank" rel="nofollow"><img alt="Mert's Mail Address" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 ## Technologies & Tools 
 <img src="https://img.shields.io/badge/.NETCore-2088FF?style=for-the-badge&logo=.net&logoColor=white"></img>
