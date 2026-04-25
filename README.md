@@ -1,11 +1,11 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 ### I'm Mert <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-### Senior Computer Engineering Student 👨‍💻
+### Computer Engineer || Full Stack Developer 👨‍💻
 ### I like coding and algorithms. You can look at my projects' codes in here.
 
 ## 📫 Reach me on
-<a href="https://tr.linkedin.com/in/mert-cumali-39a62517a/" target="_blank" rel="nofollow"><img alt="Mert's LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://tr.linkedin.com/in/mertcumali/" target="_blank" rel="nofollow"><img alt="Mert's LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 ## Technologies & Tools 
 <img src="https://img.shields.io/badge/.NETCore-2088FF?style=for-the-badge&logo=.net&logoColor=white"></img>
